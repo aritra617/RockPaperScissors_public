@@ -48,9 +48,9 @@ img{
     display:flex;
     justify-content: center;
     align-items: center;
-    font-size:2rem;
-    margin-top: 3rem;
-    gap:3rem;
+    font-size:4rem;
+    margin-top: 5rem;
+    gap:4rem;
     font-family:Big Shoulders Stencil;
 }
 
